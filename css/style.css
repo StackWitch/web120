@@ -1878,3 +1878,11 @@ body {
 #footer .section ul li a:hover {
 	text-decoration: underline;
 }
+
+@font-face {
+  font-family: 'PT_Sans-Web-Regular';
+  src: url('../fonts/PT_Sans-Web-Regular/PT_Sans-Web-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
