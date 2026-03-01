@@ -1886,3 +1886,10 @@ body {
   font-style: normal;
   font-display: swap;
 }
+
+.video-container {
+    display: block;   
+    margin-top: 20px; 
+    margin-left: 80px;  
+    clear: both;         
+}
